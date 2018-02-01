@@ -1,4 +1,4 @@
-package com.shan.databindingrxjava.Util;
+package com.shan.databindingrxjava.util;
 
 /**
  * Created by Sirajuddin on 12/10/2017.

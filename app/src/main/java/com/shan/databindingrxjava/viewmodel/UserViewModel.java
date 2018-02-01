@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.shan.databindingrxjava.app.AppController;
 import com.shan.databindingrxjava.R;
-import com.shan.databindingrxjava.Util.Constants;
+import com.shan.databindingrxjava.util.Constants;
 import com.shan.databindingrxjava.model.User;
 import com.shan.databindingrxjava.model.UserResponse;
 import com.shan.databindingrxjava.network.UserService;

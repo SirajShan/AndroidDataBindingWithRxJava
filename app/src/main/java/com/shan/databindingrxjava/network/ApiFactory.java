@@ -1,6 +1,6 @@
 package com.shan.databindingrxjava.network;
 
-import com.shan.databindingrxjava.Util.Constants;
+import com.shan.databindingrxjava.util.Constants;
 
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
